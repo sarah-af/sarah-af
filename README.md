@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sarah-af
+- 👀 I’m interested in Machine Learning and Image processing
+- 🌱 I’m currently learning Python and a little of Data Science
+- 💞️ I’m looking to collaborate on AI/ML projects
